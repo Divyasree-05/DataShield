@@ -1,8 +1,8 @@
-DATASHIELD
+# DATASHIELD
 
 DataShield is a project that provides implementations of error detection and correction techniques. It is designed to help developers integrate checksum, cyclic redundancy check (CRC), Hamming Code, and two-dimensional parity error detection into their applications. These techniques are widely used in communication systems and data storage to ensure data integrity.
 
-FEATURES
+# FEATURES
 
 1.Checksum: Validate data integrity using simple checksum algorithms.
 
